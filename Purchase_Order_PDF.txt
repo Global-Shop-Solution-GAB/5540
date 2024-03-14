@@ -1,0 +1,4 @@
+%VENDOR% PO #%PO% *!*
+Please See attached PO for Reference
+PO#: %PO%
+Vendor: %VENDOR%
