@@ -1,0 +1,1 @@
+%CUSTOMER% ORDER #%ORDER% *!*Please see attached acknowledgement for your PO# %CUSTPO%
